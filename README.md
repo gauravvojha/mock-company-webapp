@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mock Company E-Commerce Application
 
 This is the e-commerce application for Mock Company.  It's built using the following languages/frameworks
@@ -73,3 +74,6 @@ web address: http://localhost:8080
 [client-app]: ./client-app/src
 [material]: https://material-ui.com/
 [material-design]: https://material.io/
+=======
+# mock-company-webapp
+>>>>>>> 60a0f664b3ecbed35e13746fed3449b88b003dde
